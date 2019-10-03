@@ -1,0 +1,12 @@
+.container {
+    padding-top: 70px;
+}
+
+input[type=file] {
+    margin-bottom: 15px;
+}
+
+.card {
+    padding: 2px;
+    max-width: 600px;
+}
